@@ -5,7 +5,7 @@ let swiperWrapper = document.querySelector('.swiper-wrapper');
 var swiper = new Swiper('.cards-slider', {
  slidesPerView: 1,
  spaceBetween: 30,
- speed: 10000,
+ speed: 15000,
  loop: true,
  autoplay: {
   delay: 0
